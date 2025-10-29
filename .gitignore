@@ -4,3 +4,4 @@ cache/
 *.log
 coverage/
 dist/
+ca.pem
